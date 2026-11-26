@@ -1,39 +1,53 @@
-# Hi, I'm Schees Thibault
+<!--
+  Profile README for https://github.com/scheesthibault-debug
+  Special repo name must be: scheesthibault-debug/scheesthibault-debug
+-->
 
-Full-stack developer focused on shipping real products — not just demos.
+<pre>
+███████╗ ██████╗██╗  ██╗███████╗███████╗███████╗
+██╔════╝██╔════╝██║  ██║██╔════╝██╔════╝██╔════╝
+███████╗██║     ███████║█████╗  █████╗  ███████╗
+╚════██║██║     ██╔══██║██╔══╝  ██╔══╝  ╚════██║
+███████║╚██████╗██║  ██║███████╗███████╗███████║
+╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
+</pre>
 
-I build **JobsitePro**, a construction job-site SaaS used for GPS time tracking, safety compliance, expense OCR, CRM/quoting, and QuickBooks integration.
+### `schees@github ~ neofetch`
 
 ```text
 schees@github
-────────────
-OS           Windows · Linux
-Focus        Full-stack product development
-Stack        JavaScript, Node.js, PocketBase, Docker, Nginx
-Also         HTML/CSS PWAs, REST APIs, OAuth, OCR (Gemini)
-Domain       Construction tech · SMB SaaS · Canada / Québec
-Languages    French · English
-Currently    Shipping JobsitePro · open to developer roles
+──────────────────────────────
+OS:          Windows 10 · Linux
+Host:        JobsitePro / TS Solution Tech Acadie
+Kernel:      Full-stack developer
+IDE:         Cursor · VS Code
+Shell:       PowerShell · bash
+Languages:   JavaScript · Node.js · HTML/CSS · SQL
+Also:        PocketBase · Docker · Nginx · REST · OAuth
+Integrations:QuickBooks · Gemini OCR · Resend
+Focus:       Construction SaaS · SMB products · Canada / Québec
+Human langs: French · English
+Status:      Shipping JobsitePro · open to developer roles
+──────────────────────────────
+Repos:        jobsitepro (public)
+Contact:     github.com/scheesthibault-debug
 ```
 
-## What I ship
+### Github Stats
 
-| Project | What it is |
-|---------|------------|
-| **[jobsitepro](https://github.com/scheesthibault-debug/jobsitepro)** | End-to-end SaaS: employee/manager PWAs, PocketBase backend, OCR microservice, QuickBooks sync hub, contact email, deployment tooling |
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=scheesthibault-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scheesthibault-debug&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
-## Skills
+### Featured project
 
-**Backend / data** — PocketBase, Node.js, REST, OAuth (QuickBooks), file storage, hooks/RBAC  
-**Frontend** — Progressive Web Apps, vanilla JS, responsive UI for field workers  
-**Ops** — Docker, Nginx reverse proxy, Linux server deploy scripts, env-based secrets  
-**Integrations** — Resend email, Gemini OCR, CSV payroll export
-
-## Contact
-
-- GitHub: [scheesthibault-debug](https://github.com/scheesthibault-debug)
-- Portfolio repo: [jobsitepro](https://github.com/scheesthibault-debug/jobsitepro)
+**[jobsitepro](https://github.com/scheesthibault-debug/jobsitepro)** — Construction job-site SaaS  
+Employee + manager PWAs · GPS clock-in · SST docs · expense OCR · CRM/quotes · QuickBooks sync · Docker/Nginx deploy
 
 ---
 
-*Open to junior / intermediate full-stack or product engineer roles.*
+```text
+$ whoami
+Schees Thibault — full-stack builder. I ship products, not just tutorials.
+```
